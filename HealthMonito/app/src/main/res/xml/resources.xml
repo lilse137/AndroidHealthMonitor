@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+    <array name="symptoms">
+        <item>Fever</item>
+        <item>Headache</item>
+        <item>Tastelessness</item>
+        <item>Diarrhoea</item>
+        <item>Shortness of Breath</item>
+        <item>Nausea</item>
+        <item>Body pain</item>
+    </array>
+</resource>
